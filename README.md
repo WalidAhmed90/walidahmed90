@@ -1,5 +1,5 @@
 
-<h1 align="center">  Hi There!  I'm Muhammad Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  </h1>
+<h1 align="center">  Hi There!  I'm Walid Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  </h1>
 
 <div align='center'>
    <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Android+Application+Developer;Open+Source+Contributor;In+Love+With+Kotlin'/>
