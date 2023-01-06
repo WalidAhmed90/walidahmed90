@@ -21,9 +21,10 @@
    </br>
       </br>
    </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidahmed90&show_icons=true&locale=en" alt="walidahmed90" /></p>
-   </br>
+      </br>
    </br>
       </br>
    </br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidahmed90&show_icons=true&locale=en" alt="walidahmed90" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidahmed90&" alt="walidahmed90" /></p>
