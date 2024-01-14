@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid Ahmed</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Android Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidahmed90&label=Profile%20views&color=0e75b6&style=flat" alt="walidahmed90" /> </p>
 
