@@ -1,30 +1,50 @@
 <h1 align="center">Hi 👋, I'm Walid Ahmed</h1>
-<h3 align="center">A passionate Android Application Developer</h3>
+<h3 align="center">Android & Flutter Application Developer | Passionate about building impactful mobile solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidahmed90&label=Profile%20views&color=0e75b6&style=flat" alt="walidahmed90" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidahmed90" alt="walidahmed90" /></a> </p>
+### 👨‍💻 About Me  
+- 🚀 Experienced in **Android (Java/Kotlin)** and **Flutter (Dart)**  
+- 🔥 Interested in **scalable apps**, **clean architecture**, and **AI-powered mobile solutions**  
+- 📱 Building **Lifinity** – a personal assistant app focused on **Money, Health, Career, and Relationships**  
+- 🌱 Currently exploring **offline-first AI with TensorFlow Lite** and **modular Flutter architecture**  
+- 📫 Reach me at: **walidkhan345@gmail.com**
 
-- 📫 How to reach me **walidkhan345@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/walid-ahmed-470b24199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-ahmed-470b24199" height="30" width="40" /></a>
-<a href="https://fb.com/walidahmed9o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walidahmed9o" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/walid-ahmed-470b24199" target="blank"><img src="https://img.shields.io/badge/-Walid%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/walidahmed9o" target="blank"><img src="https://img.shields.io/badge/-Walid%20Ahmed-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidahmed90&show_icons=true&locale=en&layout=compact" alt="walidahmed90" /></p>
-   </br>
-   </br>
-      </br>
-   </br>
-      </br>
-   </br>
-      </br>
-   </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidahmed90&show_icons=true&locale=en" alt="walidahmed90" /></p>
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart,firebase,mysql,git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidahmed90&" alt="walidahmed90" /></p>
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=walidahmed90&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walidahmed90&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidahmed90&layout=compact&theme=tokyonight" alt="top-langs" height="160"/>
+</p>
+
+---
+
+### 🌟 Featured Projects  
+- 🧭 **Lifinity** → Personal assistant app for **Money, Health, Career, and Relationships**  
+- 📊 **Expense Tracker** → Smart budgeting & financial insights app  
+- 🔒 **Secure Notes App** → Minimal note-taking with fingerprint authentication  
+
+---
+
+### ✨ Fun Fact  
+💡 "I believe great apps don’t just work — they improve lives."
