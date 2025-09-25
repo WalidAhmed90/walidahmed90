@@ -28,18 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walidahmed90&show_icons=true&theme=tokyonight" alt="Walid's GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=walidahmed90&theme=tokyonight" alt="Walid's GitHub streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidahmed90&layout=compact&theme=tokyonight" alt="Walid's top languages" height="160"/>
-</p>
-
----
-
 ### 🌟 Featured Expertise  
 - ✅ **Native Android Development** – Java & Kotlin  
 - ✅ **Cross-platform Apps** – Flutter & Dart  
